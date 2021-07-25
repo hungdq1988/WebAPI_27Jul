@@ -1,0 +1,18 @@
+﻿body {
+    margin:0px;
+}
+
+.menu{
+    border:1px solid #808080;
+    float:left; /* align*/
+    width:250px;
+    height:100vh; /* 100vh: full height of brower */
+    background: #ffd800;
+}
+
+.content{
+    width: calc(100% - 250px);
+    height:100vh;
+    background: #0094ff;
+    margin-left:250px;
+}
