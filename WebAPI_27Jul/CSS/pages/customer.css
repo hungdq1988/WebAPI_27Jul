@@ -16,3 +16,14 @@
     background: #0094ff;
     margin-left:250px;
 }
+
+.logo{
+    width:100%;
+    border: 1px solid #00ff21;
+    height:50px;
+}
+
+.menu-item {
+    width:100%;
+    border:1px solid #b200ff;
+}
